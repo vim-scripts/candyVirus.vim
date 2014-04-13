@@ -1,6 +1,6 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4813
 
 CandyVirus is a 256 colors elegant colorscheme wrote for vim term. It has been mainly test over C, C++ and Shell Script files, but should also work fine as long as you have good syntax files.
-A white version can be displayed by using vim command 'CandyLight' but I'm not totally satisfied with it yet. ('CandyDark', 'or 'CandySwitch' to go back to the dark one).
+The colorscheme has 2 versions, a light one and a dark one. One can switch from one to the other by using the CandyLight, CandyDark, and CadySwitch commands. (Dark by default)
 
 Github: https://github.com/ercolanelli-leo/candyVirus.git
